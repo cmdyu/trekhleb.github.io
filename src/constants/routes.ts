@@ -27,9 +27,9 @@ export const routes: Routes = {
 };
 
 export const TOP_NAV: Route[] = [
-  routes.projects,
+  // routes.projects,
   routes.blog,
-  routes.publications,
+  // routes.publications,
 ];
 
 export const FOOTER_NAV: Route[] = [];

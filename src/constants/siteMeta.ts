@@ -1,7 +1,7 @@
-export const siteURL = 'https://trekhleb.dev';
-export const defaultSiteTitle = 'Trekhleb.dev';
-export const defaultSiteDescription = 'Personal blog and projects by Oleksii Trekhleb';
-export const brandName = 'Trekhleb';
+export const siteURL = 'https://jncxy.com';
+export const defaultSiteTitle = 'jncxy.com';
+export const defaultSiteDescription = '专注于AI赋能和程序员事业发展领域的分享';
+export const brandName = 'AI时代的程序员';
 export const windowNamePrefix = brandName;
 export const windowNameSeparator = '|';
 export const twitterUser = '@Trekhleb';

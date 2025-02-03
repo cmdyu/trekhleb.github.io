@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "private": false,
   "author": "Oleksii Trekhleb",
-  "homepage": "https://trekhleb.dev",
+  "homepage": "https://jncxy.com",
   "license": "0BSD",
   "scripts": {
     "fetch-stars": "node ./src/scripts/fetchGitHubStars.js",

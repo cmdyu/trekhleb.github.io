@@ -29,6 +29,7 @@ const Footer = (props: FooterProps): React.ReactElement => {
       )}
 
       <Row className="mb-6">
+        {/*
         <HyperLink
           link={{ url: '/subscribe' }}
           className="text-xs mr-5"
@@ -36,7 +37,7 @@ const Footer = (props: FooterProps): React.ReactElement => {
         >
           Subscribe
         </HyperLink>
-
+        */}
         {withSupportLink && (
         <HyperLink
           link={{ url: supportURL }}
@@ -67,6 +68,7 @@ const Footer = (props: FooterProps): React.ReactElement => {
           itemClassName="mr-2 ml-2"
         />
         <div className="ml-3">
+          {/*
           <HyperLink
             className="text-2xl leading-4"
             link={{
@@ -76,6 +78,7 @@ const Footer = (props: FooterProps): React.ReactElement => {
           >
             🇺🇦
           </HyperLink>
+          */}
         </div>
       </div>
     </footer>

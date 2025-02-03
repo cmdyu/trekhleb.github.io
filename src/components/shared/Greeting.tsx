@@ -26,13 +26,8 @@ const Greeting = (): React.ReactElement => {
 
   return (
     <p className="font-light">
-      Hi there! I&apos;m Oleksii, a full-stack software engineer. In my spare time, I do
-      open-sourcing. Most of my open-source {projectsLinkElement} focus on a single
-      goal &ndash; helping people learn. These projects can help you explore algorithms
-      in JavaScript and prepare for technical interviews, or learn Python syntax and
-      start experimenting with machine learning algorithms and the math behind them,
-      among other topics. I also write {blogLinkElement} about life, web development,
-      and machine learning.
+      大模型的出现让我们进入了AI时代，也给程序员这一职业带来了新的机遇和挑战。
+      本网站聚焦于AI赋能，跟大家探讨AI时代的程序员们该如抓住这一历史机遇，在这一轮的技术革命中找到自己的位置，实现更好的发展。
     </p>
   );
 };

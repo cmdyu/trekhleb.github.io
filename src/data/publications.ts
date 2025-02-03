@@ -83,7 +83,7 @@ export const publications: Publication[] = [
     },
   },
   {
-    title: 'Show HN: Self-Parking Car Evolution (trekhleb.dev)',
+    title: 'Show HN: Self-Parking Car Evolution (jncxy.com)',
     summary: ['Published on Hacker News 2nd page. The link leads to the Hacker News archive for that day where the mention can be found.'],
     date: '2021-09-28',
     publisher: Publisher.HackerNews,
@@ -128,7 +128,7 @@ export const publications: Publication[] = [
     },
   },
   {
-    title: 'Dynamic Programming vs. Divide-and-Conquer (2018) (trekhleb.dev)',
+    title: 'Dynamic Programming vs. Divide-and-Conquer (2018) (jncxy.com)',
     summary: ['Published on Hacker News frontpage. The link leads to the Hacker News archive for that day where the mention can be found.'],
     date: '2021-04-25',
     publisher: Publisher.HackerNews,
@@ -137,7 +137,7 @@ export const publications: Publication[] = [
     },
   },
   {
-    title: 'Content-aware image resizing in JavaScript (trekhleb.dev)',
+    title: 'Content-aware image resizing in JavaScript (jncxy.com)',
     summary: ['Published on Hacker News frontpage. The link leads to the Hacker News archive for that day where the mention can be found.'],
     date: '2021-04-16',
     publisher: Publisher.HackerNews,
