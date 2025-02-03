@@ -1,2 +1,2 @@
 // @flow
-export const GOOGLE_ANALYTICS_ID = 'G-WCWSMQ6HVX';
+export const GOOGLE_ANALYTICS_ID = 'G-3H522QMDSE';
