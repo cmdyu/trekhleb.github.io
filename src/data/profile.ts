@@ -3,7 +3,7 @@ import { socialLinks } from './socialLinks';
 
 export const profile: Profile = {
   firstName: 'AI时代的程序员',
-  // lastName: 'yu',
+  lastName: '',
   position: '微信公众号同名',
   summary: [
     '专注于AI赋能和程序员事业发展领域的分享',
